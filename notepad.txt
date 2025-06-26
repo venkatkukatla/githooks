@@ -7,3 +7,4 @@ fifthline
 sixthline
 =======
 >>>>>>> parent of 5f2944b (thirdlinecommit)
+sevenline
