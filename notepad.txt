@@ -1,6 +1,7 @@
 firstline
 secondline
 <<<<<<< HEAD
+<<<<<<< HEAD
 thirdline
 fourthline
 fifthline
@@ -23,3 +24,5 @@ l16line
 19
 20
 21
+=======
+>>>>>>> parent of 5f2944b (thirdlinecommit)
